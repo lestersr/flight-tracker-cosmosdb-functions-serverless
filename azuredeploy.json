@@ -63,7 +63,7 @@
         "ipRangeFilter": "",
         "dependsOn": [],
         "capabilities": [],
-        "enableFreeTier": true
+        "enableFreeTier": false
       }
     },
     {
